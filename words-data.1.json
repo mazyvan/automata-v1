@@ -1,0 +1,11134 @@
+[
+{
+  "word": "de",
+  "types": [
+    "Noun",
+    "Preposition"
+  ]
+},{
+  "word": "que",
+  "types": [
+    "Conjunction",
+    "Pronoun"
+  ]
+},{
+  "word": "qué",
+  "types": [
+    "Adjective",
+    "Pronoun"
+  ]
+},{
+  "word": "no",
+  "types": [
+    "Adverb",
+    "Noun",
+    "Noun"
+  ]
+},{
+  "word": "ño",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "a",
+  "types": [
+    "Noun",
+    "Preposition"
+  ]
+},{
+  "word": "la",
+  "types": [
+    "Pronoun",
+    "Determiner",
+    "Noun"
+  ]
+},{
+  "word": "el",
+  "types": [
+    "Determiner"
+  ]
+},{
+  "word": "él",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "ser",
+  "types": [
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "y",
+  "types": [
+    "Noun",
+    "Conjunction"
+  ]
+},{
+  "word": "en",
+  "types": [
+    "Preposition"
+  ]
+},{
+  "word": "lo",
+  "types": [
+    "Pronoun",
+    "Determiner"
+  ]
+},{
+  "word": "un",
+  "types": [
+    "Determiner",
+    "Numeral"
+  ]
+},{
+  "word": "por",
+  "types": [
+    "Preposition"
+  ]
+},{
+  "word": "me",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "te",
+  "types": [
+    "Pronoun",
+    "Noun"
+  ]
+},{
+  "word": "té",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "se",
+  "types": [
+    "Noun",
+    "Pronoun"
+  ]
+},{
+  "word": "con",
+  "types": [
+    "Preposition"
+  ]
+},{
+  "word": "para",
+  "types": [
+    "Preposition"
+  ]
+},{
+  "word": "mi",
+  "types": [
+    "Noun",
+    "Determiner"
+  ]
+},{
+  "word": "mí",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "estar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "sí",
+  "types": [
+    "Noun",
+    "Adverb",
+    "Pronoun"
+  ]
+},{
+  "word": "si",
+  "types": [
+    "Noun",
+    "Conjunction",
+    "Noun"
+  ]
+},{
+  "word": "pero",
+  "types": [
+    "Noun",
+    "Noun",
+    "Conjunction"
+  ]
+},{
+  "word": "su",
+  "types": [
+    "Determiner"
+  ]
+},{
+  "word": "yo",
+  "types": [
+    "Pronoun",
+    "Noun"
+  ]
+},{
+  "word": "tu",
+  "types": [
+    "Determiner"
+  ]
+},{
+  "word": "tú",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "del",
+  "types": [
+    "Other"
+  ]
+},{
+  "word": "al",
+  "types": [
+    "Other"
+  ]
+},{
+  "word": "como",
+  "types": [
+    "Adverb",
+    "Conjunction",
+    "Preposition"
+  ]
+},{
+  "word": "cómo",
+  "types": [
+    "Adverb",
+    "Noun"
+  ]
+},{
+  "word": "le",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "eso",
+  "types": [
+    "Pronoun",
+    "Noun"
+  ]
+},{
+  "word": "este",
+  "types": [
+    "Noun",
+    "Pronoun",
+    "Determiner"
+  ]
+},{
+  "word": "ya",
+  "types": [
+    "Conjunction",
+    "Adverb"
+  ]
+},{
+  "word": "muy",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "haber",
+  "types": [
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "bien",
+  "types": [
+    "Conjunction",
+    "Noun",
+    "Interjection",
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "todo",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Determiner",
+    "Pronoun"
+  ]
+},{
+  "word": "nos",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "tener",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cuando",
+  "types": [
+    "Conjunction",
+    "Preposition",
+    "Adverb"
+  ]
+},{
+  "word": "cuándo",
+  "types": [
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "solo",
+  "types": [
+    "Adverb",
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "ir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "o",
+  "types": [
+    "Conjunction",
+    "Noun",
+    "Noun"
+  ]
+},{
+  "word": "poder",
+  "types": [
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "esto",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "querer",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "ahora",
+  "types": [
+    "Adverb",
+    "Conjunction"
+  ]
+},{
+  "word": "algo",
+  "types": [
+    "Adverb",
+    "Pronoun"
+  ]
+},{
+  "word": "saber",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "ese",
+  "types": [
+    "Pronoun",
+    "Determiner",
+    "Noun"
+  ]
+},{
+  "word": "creer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "bueno",
+  "types": [
+    "Adjective",
+    "Interjection",
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "tan",
+  "types": [
+    "Adverb",
+    "Noun"
+  ]
+},{
+  "word": "porque",
+  "types": [
+    "Conjunction"
+  ]
+},{
+  "word": "porqué",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "donde",
+  "types": [
+    "Adverb",
+    "Preposition"
+  ]
+},{
+  "word": "dónde",
+  "types": [
+    "Adverb",
+    "Noun"
+  ]
+},{
+  "word": "hacer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "nada",
+  "types": [
+    "Noun",
+    "Interjection",
+    "Adverb",
+    "Pronoun"
+  ]
+},{
+  "word": "nunca",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "vez",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ella",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "dos",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "sin",
+  "types": [
+    "Preposition"
+  ]
+},{
+  "word": "hasta",
+  "types": [
+    "Adverb",
+    "Preposition"
+  ]
+},{
+  "word": "entonces",
+  "types": [
+    "Conjunction",
+    "Adverb"
+  ]
+},{
+  "word": "dios",
+  "types": [
+    "Noun",
+    "Interjection"
+  ]
+},{
+  "word": "sobre",
+  "types": [
+    "Noun",
+    "Preposition"
+  ]
+},{
+  "word": "usted",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "ni",
+  "types": [
+    "Conjunction",
+    "Noun"
+  ]
+},{
+  "word": "mejor",
+  "types": [
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "mucho",
+  "types": [
+    "Pronoun",
+    "Adverb",
+    "Determiner"
+  ]
+},{
+  "word": "ver",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "sentir",
+  "types": [
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "alguien",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "otro",
+  "types": [
+    "Adjective",
+    "Pronoun",
+    "Determiner"
+  ]
+},{
+  "word": "siempre",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "hombre",
+  "types": [
+    "Noun",
+    "Interjection"
+  ]
+},{
+  "word": "uno",
+  "types": [
+    "Adjective",
+    "Pronoun",
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "parecer",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "antes",
+  "types": [
+    "Adjective",
+    "Adverb",
+    "Noun",
+    "Conjunction"
+  ]
+},{
+  "word": "mirar",
+  "types": [
+    "Verb",
+    "Interjection"
+  ]
+},{
+  "word": "tal",
+  "types": [
+    "Conjunction",
+    "Pronoun",
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "decir",
+  "types": [
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "poco",
+  "types": [
+    "Adverb",
+    "Determiner",
+    "Pronoun"
+  ]
+},{
+  "word": "nadie",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "desde",
+  "types": [
+    "Preposition"
+  ]
+},{
+  "word": "tiempo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "grande",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "favor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "casa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gente",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "cosa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "necesitar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "deber",
+  "types": [
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "hecho",
+  "types": [
+    "Verb",
+    "Interjection",
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "nuestro",
+  "types": [
+    "Determiner",
+    "Pronoun",
+    "Noun"
+  ]
+},{
+  "word": "vida",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "quien",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "quién",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "hablar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ellos",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "tipo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "fuera",
+  "types": [
+    "Noun",
+    "Adverb",
+    "Interjection"
+  ]
+},{
+  "word": "estado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "menos",
+  "types": [
+    "Adverb",
+    "Noun",
+    "Preposition",
+    "Conjunction"
+  ]
+},{
+  "word": "tres",
+  "types": [
+    "Noun",
+    "Numeral"
+  ]
+},{
+  "word": "cada",
+  "types": [
+    "Determiner",
+    "Noun"
+  ]
+},{
+  "word": "padre",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "hijo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nosotros",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "claro",
+  "types": [
+    "Adverb",
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "seguro",
+  "types": [
+    "Noun",
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "gustar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "esperar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "trabajo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lugar",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "verdad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pasar",
+  "types": [
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "alguno",
+  "types": [
+    "Determiner",
+    "Pronoun"
+  ]
+},{
+  "word": "luego",
+  "types": [
+    "Conjunction",
+    "Adverb"
+  ]
+},{
+  "word": "mas",
+  "types": [
+    "Conjunction"
+  ]
+},{
+  "word": "más",
+  "types": [
+    "Conjunction",
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "ti",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "mismo",
+  "types": [
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "noche",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mundo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "visto",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "nombre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "realmente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "entre",
+  "types": [
+    "Preposition"
+  ]
+},{
+  "word": "buenas",
+  "types": [
+    "Idiomatic"
+  ]
+},{
+  "word": "parte",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pues",
+  "types": [
+    "Conjunction",
+    "Adverb"
+  ]
+},{
+  "word": "casi",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "amigo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "hora",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "dinero",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hacia",
+  "types": [
+    "Preposition"
+  ]
+},{
+  "word": "demasiado",
+  "types": [
+    "Adverb",
+    "Determiner",
+    "Pronoun"
+  ]
+},{
+  "word": "pensar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "madre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "dejar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "hoy",
+  "types": [
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "contra",
+  "types": [
+    "Noun",
+    "Preposition"
+  ]
+},{
+  "word": "mientras",
+  "types": [
+    "Adverb",
+    "Conjunction",
+    "Preposition"
+  ]
+},{
+  "word": "cualquier",
+  "types": [
+    "Determiner"
+  ]
+},{
+  "word": "nuevo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "mal",
+  "types": [
+    "Adverb",
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "tanto",
+  "types": [
+    "Adverb",
+    "Noun",
+    "Pronoun",
+    "Determiner"
+  ]
+},{
+  "word": "salir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "mujer",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nueva",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "momento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "dar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "importar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ninguno",
+  "types": [
+    "Pronoun",
+    "Determiner"
+  ]
+},{
+  "word": "doctor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "durante",
+  "types": [
+    "Preposition"
+  ]
+},{
+  "word": "mierda",
+  "types": [
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "forma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "seguir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "bajo",
+  "types": [
+    "Adjective",
+    "Adverb",
+    "Noun",
+    "Preposition"
+  ]
+},{
+  "word": "acuerdo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "volver",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "suponer",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "toma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "siquiera",
+  "types": [
+    "Conjunction",
+    "Adverb"
+  ]
+},{
+  "word": "chica",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aunque",
+  "types": [
+    "Conjunction"
+  ]
+},{
+  "word": "idea",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "dicho",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "venir",
+  "types": [
+    "Interjection",
+    "Verb"
+  ]
+},{
+  "word": "significar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "tomar",
+  "types": [
+    "Verb",
+    "Interjection"
+  ]
+},{
+  "word": "dentro",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "primero",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Numeral",
+    "Adverb"
+  ]
+},{
+  "word": "llamar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "e",
+  "types": [
+    "Noun",
+    "Noun",
+    "Conjunction"
+  ]
+},{
+  "word": "diablo",
+  "types": [
+    "Noun",
+    "Interjection"
+  ]
+},{
+  "word": "fin",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "maldito",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "habla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cuenta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "amor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "justo",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "chico",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "llegar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cinco",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "valer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "problema",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "familia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "viejo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "escuchar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pasado",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "cuidado",
+  "types": [
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "persona",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tarde",
+  "types": [
+    "Adverb",
+    "Noun"
+  ]
+},{
+  "word": "caso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "adónde",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "adonde",
+  "types": [
+    "Preposition",
+    "Adverb"
+  ]
+},{
+  "word": "cuanto",
+  "types": [
+    "Adjective",
+    "Pronoun",
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "cuánto",
+  "types": [
+    "Determiner",
+    "Adverb",
+    "Pronoun",
+    "Noun"
+  ]
+},{
+  "word": "cerca",
+  "types": [
+    "Adverb",
+    "Noun"
+  ]
+},{
+  "word": "mano",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "maño",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "encontrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "quedar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "historia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "suerte",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cual",
+  "types": [
+    "Adjective",
+    "Pronoun",
+    "Adverb"
+  ]
+},{
+  "word": "cuál",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "feliz",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "pronto",
+  "types": [
+    "Noun",
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "par",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "igual",
+  "types": [
+    "Noun",
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "cuatro",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "clase",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tratar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cierto",
+  "types": [
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "hermano",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "manera",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "puerta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "os",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "bastante",
+  "types": [
+    "Pronoun",
+    "Adjective",
+    "Adverb",
+    "Determiner"
+  ]
+},{
+  "word": "ciudad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "matar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "esposa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "camino",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cabeza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "conocer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "vino",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "jefe",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "miedo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "medio",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "equipo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "entrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "muerte",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "acerca",
+  "types": [
+    "Other"
+  ]
+},{
+  "word": "punto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "vivir",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "realidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "llevar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "guerra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sangre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "conmigo",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "seis",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "listo",
+  "types": [
+    "Adjective",
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "entender",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ojo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "minuto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mayor",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "semana",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "agua",
+  "types": [
+    "Noun",
+    "Interjection"
+  ]
+},{
+  "word": "haz",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ayuda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "auto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "incluso",
+  "types": [
+    "Adverb",
+    "Preposition"
+  ]
+},{
+  "word": "contigo",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "paso",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "juego",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cuerpo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "demonio",
+  "types": [
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "agente",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "comida",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "buscar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "muerto",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "mil",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "cara",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "falta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "acabar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "probablemente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "tampoco",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "sino",
+  "types": [
+    "Noun",
+    "Conjunction"
+  ]
+},{
+  "word": "comer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "recuerdo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "malo",
+  "types": [
+    "Interjection",
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "trabajar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "segundo",
+  "types": [
+    "Numeral",
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "final",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "jugar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "poner",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "amo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "importante",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "dado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "odio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "suficiente",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "sonar",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "soñar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "usar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "supuesto",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "serio",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "luz",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "morir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "loco",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "tierra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "diez",
+  "types": [
+    "Noun",
+    "Adjective",
+    "Numeral"
+  ]
+},{
+  "word": "resto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tras",
+  "types": [
+    "Preposition",
+    "Noun"
+  ]
+},{
+  "word": "vuelta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "alto",
+  "types": [
+    "Noun",
+    "Adverb",
+    "Adjective",
+    "Interjection"
+  ]
+},{
+  "word": "culpa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lamento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "preocupar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "arriba",
+  "types": [
+    "Adverb",
+    "Interjection"
+  ]
+},{
+  "word": "fiesta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "joven",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "cuarto",
+  "types": [
+    "Noun",
+    "Numeral"
+  ]
+},{
+  "word": "llamado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "perder",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "sal",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bastar",
+  "types": [
+    "Interjection",
+    "Verb"
+  ]
+},{
+  "word": "pregunta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "recordar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "trato",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rey",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "arma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "exactamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "perro",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "propio",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "temer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "lista",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "adelante",
+  "types": [
+    "Interjection",
+    "Adverb"
+  ]
+},{
+  "word": "abrir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "fuerte",
+  "types": [
+    "Noun",
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "lejos",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "peor",
+  "types": [
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "general",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "frente",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "andar",
+  "types": [
+    "Noun",
+    "Idiomatic",
+    "Verb",
+    "Interjection"
+  ]
+},{
+  "word": "mes",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gusto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pobre",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Interjection"
+  ]
+},{
+  "word": "palabra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "escuela",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "seguridad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sistema",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "disculpar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "asunto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nave",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aun",
+  "types": [
+    "Preposition",
+    "Adverb"
+  ]
+},{
+  "word": "aún",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "plan",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "traje",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "control",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sentido",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "cambiar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "traer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "presidente",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "grupo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "genial",
+  "types": [
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "simplemente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "prueba",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "junto",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "perdido",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "oportunidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "conseguir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pueblo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "veras",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "puesto",
+  "types": [
+    "Adjective",
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "orden",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cambio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mitad",
+  "types": [
+    "Adverb",
+    "Noun"
+  ]
+},{
+  "word": "fuerza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ante",
+  "types": [
+    "Noun",
+    "Preposition"
+  ]
+},{
+  "word": "carajo",
+  "types": [
+    "Interjection",
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "libro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ropa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "querido",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "abajo",
+  "types": [
+    "Interjection",
+    "Adverb"
+  ]
+},{
+  "word": "campo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "derecho",
+  "types": [
+    "Noun",
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "calle",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "callar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "encantar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ayudar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "asesino",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "centro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pagar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "viaje",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "oficial",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "posible",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "oficina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "modo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "baja",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bajá",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "dormir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "media",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "salvar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "profesor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "excepto",
+  "types": [
+    "Adverb",
+    "Preposition"
+  ]
+},{
+  "word": "fuego",
+  "types": [
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "largo",
+  "types": [
+    "Interjection",
+    "Noun",
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "verdadero",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "siete",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "ganar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "sitio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "comprar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "placer",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "dolor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sala",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "caballero",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "coche",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "afuera",
+  "types": [
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "encima",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "llamada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "regresar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "bienvenido",
+  "types": [
+    "Interjection",
+    "Adjective"
+  ]
+},{
+  "word": "empezar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "terminar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "peña",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pena",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sacar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ataque",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "apenas",
+  "types": [
+    "Conjunction",
+    "Adverb"
+  ]
+},{
+  "word": "caja",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "suceder",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cielo",
+  "types": [
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "programa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "duro",
+  "types": [
+    "Adverb",
+    "Adjective",
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "negocio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ambos",
+  "types": [
+    "Pronoun",
+    "Determiner"
+  ]
+},{
+  "word": "noticia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "foto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cerrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "lindo",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "paz",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hospital",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "acaso",
+  "types": [
+    "Adverb",
+    "Noun"
+  ]
+},{
+  "word": "deseo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "preguntar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "servicio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aire",
+  "types": [
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "tranquilo",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "mente",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "alrededor",
+  "types": [
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "voz",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "libre",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "muchacho",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "apostar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "especial",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "mensaje",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "anoche",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "jurar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "debajo",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "santo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "maestro",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "alegrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "dejado",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "respuesta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "intento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sexo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "marido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ocurrir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "futuro",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "permiso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "edad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aquel",
+  "types": [
+    "Pronoun",
+    "Determiner",
+    "Noun"
+  ]
+},{
+  "word": "cama",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "dama",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "club",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nivel",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "blanco",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "negro",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "tonto",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "mantener",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "causa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "raro",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "boca",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ahí",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "base",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ocho",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "luna",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pedir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "soler",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ley",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pelo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gobierno",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pie",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "correr",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "siguiente",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "regreso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "existir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "secreto",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "bonito",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "barco",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "teniente",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "carné",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "carne",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "real",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "don",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "regalo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "disculpa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "salvo",
+  "types": [
+    "Preposition",
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "detective",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tocar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "lleno",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "cualquiera",
+  "types": [
+    "Noun",
+    "Determiner",
+    "Pronoun"
+  ]
+},{
+  "word": "zona",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "vuelo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "idiota",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "pelea",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "encuentro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hotel",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "trasero",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "preferir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ayer",
+  "types": [
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "coronel",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "perfecto",
+  "types": [
+    "Adverb",
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "honor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "capaz",
+  "types": [
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "contacto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "confiar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "tren",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "correcto",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "míster",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "esposo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "leer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cerebro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sargento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "comandante",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "dulce",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "carta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "vista",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "piso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sentar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "novio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rayo",
+  "types": [
+    "Noun",
+    "Interjection"
+  ]
+},{
+  "word": "excelente",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "culo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "error",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sol",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hermoso",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "intentar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "departamento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "funcionar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "tienda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "banco",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "depender",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cita",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mesa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "unidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "seguramente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "especie",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "embargo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pedazo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "abogado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "contar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cena",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "imposible",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "doble",
+  "types": [
+    "Noun",
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "cargo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "personal",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "especialmente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "papel",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "alma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gato",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "escribir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "estrella",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "edificio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "obra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "corte",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "accidente",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "delante",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "guardia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "carrera",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mata",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "soldado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "probar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "espada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "humano",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "calma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gana",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "doler",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "libertad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aprender",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pelear",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "prometer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "director",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "subir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "sur",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "perra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "caer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "llave",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "simple",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "norte",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "espacio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "papa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "papá",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "diferente",
+  "types": [
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "robot",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "solamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "color",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bar",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "isla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "planeta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "parar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "terrible",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "servir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "reina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "llenar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "oro",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "consejo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mar",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "destino",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "interesar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "volar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "basura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "baile",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "respeto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "enseguida",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "pesar",
+  "types": [
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "golpe",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "normal",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "paciente",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "iglesia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bomba",
+  "types": [
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "derecha",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "evitar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "largar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "proteger",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "alta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "informe",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "navidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "izquierda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "fe",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gracioso",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "silencio",
+  "types": [
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "abuelo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cuento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "princesa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "amable",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "tuyo",
+  "types": [
+    "Pronoun",
+    "Determiner",
+    "Noun"
+  ]
+},{
+  "word": "bolsa",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "ex",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "vestido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "enemigo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "arreglar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "bajar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "vera",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "crimen",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "adentro",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "caballo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "peligro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "partir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "duda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "batalla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nota",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rojo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "acordar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "costar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "nueve",
+  "types": [
+    "Noun",
+    "Numeral"
+  ]
+},{
+  "word": "brazo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "destruir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "absolutamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "estilo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "oler",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "entrada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "radio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bienvenida",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "valor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "muestra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "asesinato",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mando",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "regla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "desear",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "mama",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mamá",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tarjeta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "acceso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "presentar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "fondo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "anillo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "divertido",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "detener",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pistola",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "comenzar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "tiro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "velocidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "partido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cuidar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "calmar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "uso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "escena",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "despertar",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "tercer",
+  "types": [
+    "Other"
+  ]
+},{
+  "word": "echar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "directo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "sir",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "Roma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "imaginar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "beber",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "enviar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cenar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "horrible",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "animal",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "suelo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "piel",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "perdonar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pago",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "experiencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "proyecto",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "defensa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "principio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "orgulloso",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "metro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "red",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "precio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mover",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "bailar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "alejar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pedido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "vos",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "vender",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "necesario",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "molestar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "TV",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lord",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "resultar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "miembro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "banda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rico",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "permitir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "diferencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "salida",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "joder",
+  "types": [
+    "Verb",
+    "Interjection"
+  ]
+},{
+  "word": "triste",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "azul",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "robar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "hogar",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pista",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pan",
+  "types": [
+    "Noun",
+    "Noun"
+  ]
+},{
+  "word": "puto",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "memoria",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "puente",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lucha",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cabo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "viento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bala",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "imagen",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "toque",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sonido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "universidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tercera",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "broma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "droga",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "suficientemente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "carga",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "temprano",
+  "types": [
+    "Noun",
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "olvidar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "agradecer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "peso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "coger",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pareja",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cien",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "calor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "recibir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "vosotros",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "arte",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "luchar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "respecto",
+  "types": [
+    "Other"
+  ]
+},{
+  "word": "infierno",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tema",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "marca",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "guardar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "enfermo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "quitar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "sujeto",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "maravilloso",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "ejemplo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ciento",
+  "types": [
+    "Noun",
+    "Numeral"
+  ]
+},{
+  "word": "repente",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sugerir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "laña",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lana",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "bola",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "amá",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "serie",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "costa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ello",
+  "types": [
+    "Pronoun",
+    "Noun"
+  ]
+},{
+  "word": "aceptar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "obtener",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "vuestro",
+  "types": [
+    "Noun",
+    "Pronoun",
+    "Determiner"
+  ]
+},{
+  "word": "reloj",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ventana",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "torre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "papi",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bosque",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "central",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "cansar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "rato",
+  "types": [
+    "Other",
+    "Noun"
+  ]
+},{
+  "word": "objetivo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "referir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "asiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "robo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tropa",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "enorme",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "siglo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "manejar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cantidad",
+  "types": [
+    "Adverb",
+    "Noun"
+  ]
+},{
+  "word": "dedo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "fuente",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "interesante",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "merecer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cinta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "socio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sorpresa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "riesgo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "recoger",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "tirar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "milla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "averiguar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "peligroso",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "crear",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cliente",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "romper",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "prisa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "caminar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "decidir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "zapato",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ganado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "limpiar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "gordo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "recuperar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "virus",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "actuar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "verano",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "inteligente",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "dudar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "premio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "posibilidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "faltar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "mami",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "taxi",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ocupar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "acto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "visita",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "controlar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "canal",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cañal",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "verde",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "discutir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "unido",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "salud",
+  "types": [
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "liso",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "agradable",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "caliente",
+  "types": [
+    "Adjective",
+    "Interjection"
+  ]
+},{
+  "word": "aguantar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "meter",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "escapar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "preparar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "levantar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "juez",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "huella",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "menor",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "herida",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hambre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "enamorar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "piloto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tormenta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "principal",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "pierna",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "show",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pulso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "primo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "sheriff",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cortar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cerveza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "juicio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "brillante",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "brillanté",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "agarrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "monstruo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "boda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cabello",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "soltar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "silla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "locura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "propiedad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "amenaza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "prensa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "voluntad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "medicina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "taza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mapa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hielo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "botella",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tratado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "disponer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "leche",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "video",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "inspector",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "lengua",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "total",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "modelo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "huevo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cocina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "asegurar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "estudio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "efecto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "motivo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "durar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "convertir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "resolver",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "victoria",
+  "types": [
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "dato",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "menudo",
+  "types": [
+    "Noun",
+    "Adjective",
+    "Interjection"
+  ]
+},{
+  "word": "aparte",
+  "types": [
+    "Adjective",
+    "Adverb",
+    "Noun"
+  ]
+},{
+  "word": "truco",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "puro",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "normalmente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "enfermedad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "completo",
+  "types": [
+    "Noun",
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "carro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "oeste",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "flor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "revisar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "beso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lago",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "veinte",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "preocupado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "esperanza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "flota",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "firma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ministro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cine",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "reino",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "raza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "alerta",
+  "types": [
+    "Adjective",
+    "Adverb",
+    "Noun",
+    "Interjection"
+  ]
+},{
+  "word": "naturaleza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "examen",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "famoso",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "revista",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "matrimonio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "compra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aspecto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "explicar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "necesidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "criatura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "adorar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "exacto",
+  "types": [
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "contrato",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "justicia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "evidencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "construir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "curso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cuello",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aeropuerto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sentimiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "responsable",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "atrapar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cadena",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "apoyo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "antiguo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "olor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "culpable",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "senador",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "doce",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "movimiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "parque",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "parqué",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "piedra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "visitar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "enfermero",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "oscuro",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "enviado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nariz",
+  "types": [
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "vaso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "marcha",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "confianza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mirada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "roto",
+  "types": [
+    "Noun",
+    "Verb",
+    "Adjective"
+  ]
+},{
+  "word": "repetir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "laboratorio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mercado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "corto",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "agencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "belleza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pertenecer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ron",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "clave",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "dirigir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "computadora",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "testigo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ciencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sociedad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "copa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bote",
+  "types": [
+    "Noun",
+    "Other"
+  ]
+},{
+  "word": "aparecer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "restaurante",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nacer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "profundo",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "castillo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "leyenda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pastel",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "espalda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "descubrir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "viernes",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "grandioso",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "resultado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "diario",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "rock",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "do",
+  "types": [
+    "Adverb",
+    "Noun"
+  ]
+},{
+  "word": "dó",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "estudiante",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hallar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "valiente",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "colegio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cruzar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "meta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "americano",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "número",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "fecha",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "despacio",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "proceso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pez",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "NE",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "herir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "adivinar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "oferta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cumplir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ruido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "responder",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "poderoso",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "barrio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "saco",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tumba",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gira",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "respirar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "continuar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "diente",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "disparar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "suyo",
+  "types": [
+    "Pronoun",
+    "Determiner",
+    "Noun"
+  ]
+},{
+  "word": "compartir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "elegir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "abierto",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "sorprender",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "limpio",
+  "types": [
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "pared",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "fantasma",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "emergencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ruta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mandar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "parada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "turno",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "magia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gas",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "vistazo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "trago",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "licencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "estupendo",
+  "types": [
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "presencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rostro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "copia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "interior",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "grave",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "majestad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "odiar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "conde",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mentira",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lluvia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "casado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "atacar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "firme",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "cable",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "apartamento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "material",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "fumar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "relajar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "lucir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "harto",
+  "types": [
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "cantar",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "contento",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "pasada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "treinta",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "distancia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "disparo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "apurar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "camisa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pelota",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "rumbo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "entero",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "emperador",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "comprender",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "enfrente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "cuchillo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pata",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "planta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "playa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "permanecer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ganador",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "cerdo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "tesoro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "contado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "bromear",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "apagar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ira",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "temporada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "campamento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "miná",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "jueves",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "paquete",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "alcance",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "esquina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "polvo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sospechoso",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "temperatura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "abandonar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "paseo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nieve",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "imperio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nacional",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "conducir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "equivocado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "unir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pollo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "jugador",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "inteligencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "detalle",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "grado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "perfectamente",
+  "types": [
+    "Interjection",
+    "Adverb"
+  ]
+},{
+  "word": "asistente",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "talento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "granja",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "viajar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "motor",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "verdaderamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "considerar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "actor",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "violencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cheque",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mostrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "martes",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "felicidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "curioso",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "sector",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "empresa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "descanso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sincronizar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "desastre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "contrario",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "disco",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "militar",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "entrega",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tarea",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "combate",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "huir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "corriente",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "capacidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bastardo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "mono",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Other"
+  ]
+},{
+  "word": "moño",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "orgullo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rogar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "habilidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gloria",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "junta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cristo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "trampa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sobrevivir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "llorar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "firmar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "libra",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "condado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cubierto",
+  "types": [
+    "Other",
+    "Noun"
+  ]
+},{
+  "word": "bravo",
+  "types": [
+    "Interjection",
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "trauma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "precisamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "oscuridad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lograr",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "sucio",
+  "types": [
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "fortuna",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "experto",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "entrenamiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sombrero",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "quieto",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "conseguido",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "plata",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "descansar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "techo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pecho",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "logro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "queso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "colega",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "oso",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "reporte",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "fijar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "invitado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "entrenador",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "empleo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "incluir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "genio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "museo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cola",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "noble",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "templo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "clima",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "inocente",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "seguido",
+  "types": [
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "bruja",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "posiblemente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "encargo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "agujero",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ciertamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "lunes",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "encargar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "defender",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pintura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sonrisa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mate",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "amar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "sabor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "camioneta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cerrado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "local",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "jurado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "actitud",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "fiscal",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "desaparecer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "estudiar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "tubo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "punta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "carretera",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rosa",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "rata",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "plato",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "plató",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "frontera",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "correo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hueso",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "pieza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "venganza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "china",
+  "types": [
+    "Noun",
+    "Noun"
+  ]
+},{
+  "word": "vivo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "gobernador",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "ritmo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "parecido",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "tratamiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "responsabilidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "helado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "registro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aprecio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "trozo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "secuencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "veneno",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "placa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sufrir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "probable",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "amante",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "feo",
+  "types": [
+    "Adjective",
+    "Adverb",
+    "Noun"
+  ]
+},{
+  "word": "criminal",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "autoridad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nervioso",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "saltar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "contestar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cargar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "almirante",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "actividad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bestia",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "salsa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "archivo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "universo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "soportar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "julio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "jugo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "precioso",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "teatro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "esfuerzo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bordo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "apuesta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "arena",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "coma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "instituto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "crema",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "mundial",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "sopa",
+  "types": [
+    "Noun",
+    "Interjection"
+  ]
+},{
+  "word": "palacio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "conferencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "falla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sombra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "encender",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "extra",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "salvaje",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "guerrero",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "presente",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "alarma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "humor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "territorio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "embajador",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "celebrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "indicar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "representar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pene",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "patrulla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "globo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "chiste",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "excusa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "so",
+  "types": [
+    "Adverb",
+    "Noun",
+    "Preposition"
+  ]
+},{
+  "word": "biblioteca",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tanque",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "suave",
+  "types": [
+    "Adjective",
+    "Adverb"
+  ]
+},{
+  "word": "pagado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "aquello",
+  "types": [
+    "Pronoun"
+  ]
+},{
+  "word": "cuartel",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ja",
+  "types": [
+    "Interjection"
+  ]
+},{
+  "word": "gracia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "disfrutar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pescado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "escudo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "promesa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "procedimiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "causar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "almuerzo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "venta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pozo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "descubierto",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "talvez",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "conejo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "terrorista",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "frecuencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "expediente",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bello",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "sufrido",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "funeral",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "cristal",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "muro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cometer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "chocolate",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "borde",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "vampiro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "milagro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rueda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rastro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "industria",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "incidente",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "ciego",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "eliminar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "domingo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "terapia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "profesional",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "misterio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "favorito",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "empleado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "logrado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "guapo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "fiebre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ambiente",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "quinto",
+  "types": [
+    "Noun",
+    "Adjective",
+    "Numeral"
+  ]
+},{
+  "word": "mejorar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "virgen",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "preparado",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "negativo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "comprado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "coca",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bebida",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tocado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "monte",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "incendio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ciudadano",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "ADN",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "saludo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "golpear",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "alcohol",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gratis",
+  "types": [
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "desierto",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "bota",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bandera",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "sentado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "opinar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "condenado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "ala",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "paciencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "marino",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "identidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "echado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "devolver",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "secretario",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ayudante",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "salvado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "formar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "familiar",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "preciso",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "fase",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "original",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "contener",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cero",
+  "types": [
+    "Noun",
+    "Numeral",
+    "Adjective"
+  ]
+},{
+  "word": "inmediatamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "agradar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "burro",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "ave",
+  "types": [
+    "Noun",
+    "Noun"
+  ]
+},{
+  "word": "tirado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "teta",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Adverb"
+  ]
+},{
+  "word": "fila",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cuan",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "cuán",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "castigo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sacerdote",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "celular",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "asustar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "encargado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "subtitulado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "episodio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "deuda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "conocimiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "apetecer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "lanza",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "bolso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "atravesar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "uniforme",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "nuevamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "invitar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "encantador",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "bendecir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "humo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "capa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cruel",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "artista",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "legal",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "generalmente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "ruso",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "cobra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sobrino",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "salto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cazador",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "admirar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "mortal",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "suicidio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lata",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "efectivo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "acero",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "comando",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "roca",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "demostrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pinta",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "marco",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "chino",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "madera",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "galleta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "escalera",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "personalmente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "saludar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cía",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "disparado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "amistad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "realizar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "be",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "reconocer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "altura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ofrecer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "despierto",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "desafortunadamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "arruinar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "privado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "encantado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "embarazado",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "conciencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cincuenta",
+  "types": [
+    "Noun",
+    "Numeral"
+  ]
+},{
+  "word": "cartera",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "abrigo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pizza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "olvido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ocupado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "miranda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "combustible",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "septiembre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "competencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "charla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "arresto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cazar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "academia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "socorro",
+  "types": [
+    "Interjection",
+    "Noun"
+  ]
+},{
+  "word": "pasillo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "letra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lavar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "hierba",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "dosis",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cabina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "vega",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cuerda",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "plaza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nadar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "abandonado",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "lento",
+  "types": [
+    "Adverb",
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "corea",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rubio",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "llegada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lanzar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "invierno",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cubrir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "sexual",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "serpiente",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "recompensa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "negar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "medalla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "asalto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lealtad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "valle",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pecado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "palo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "kilo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "desgracia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "residencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "espejo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "medida",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "importancia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cirujano",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tigre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "terreno",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "priorato",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "estructura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ventaja",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "moto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "encerrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "arreglo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "semejante",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "detestar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "hoja",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sagrado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "ducha",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "deprisa",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "conque",
+  "types": [
+    "Conjunction"
+  ]
+},{
+  "word": "alteza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aldea",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "crecer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "utilizar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "casino",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "piscina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cobarde",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "octubre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "partida",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "producto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "molesto",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "docena",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mago",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "humanidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gritar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "rumor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aceite",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "esconder",
+  "types": [
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "amado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "besar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "distinto",
+  "types": [
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "prima",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "casco",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "vecino",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "sucedido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "enfrentar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pasaporte",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "senado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "chaqueta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mencionar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "congreso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pantalla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pesa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "espacial",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "tele",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "metal",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "arco",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gimnasio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "armada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "impacto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "coraje",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cima",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "fingir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "hoyo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "juguete",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mentiroso",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "ejercicio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "renunciar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "vendedor",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "diamante",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "afectar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "lenguaje",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "desaparecido",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "comisario",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cuadro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "vaca",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "consciente",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "cortado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "escoger",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "lanzamiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cultura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "conducta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aburrido",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "junio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "escala",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tercero",
+  "types": [
+    "Noun",
+    "Adjective",
+    "Numeral"
+  ]
+},{
+  "word": "costado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "advertir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "absoluto",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "patio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "delta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "secundario",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "rollo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "federal",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "pasaje",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "once",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "liberar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "anuncio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gerente",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "concepto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "planeado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "ordenar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "ordeñar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "alianza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "abril",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "escape",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "elle",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "romano",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "pleno",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "perfil",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "miserable",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "fallo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "comercial",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "origen",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "concurso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "liga",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "can",
+  "types": [
+    "Noun",
+    "Other"
+  ]
+},{
+  "word": "garganta",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "barra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aventura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "figura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "villa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "izquierdo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "interrumpir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "chófer",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "digno",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "quemar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "tina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tiña",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rango",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "primavera",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "billete",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "apellido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "signo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "secuestro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "potencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pega",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pegar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "mentir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "afortunado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "vencer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "planear",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "fiel",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "biblia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aparato",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "social",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "civil",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "existencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "medir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "fresco",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "escenario",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sabio",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "trabajador",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "desnudo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "lavado",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "vela",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "popular",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "nacimiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gigante",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "joya",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "homicidio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aguja",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "internacional",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "dieta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "conocido",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "sincero",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "maleta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lectura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gasolina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "poli",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ilegal",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "horario",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "gravedad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "practicar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "productor",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "asumir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "terror",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "prestar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "personalidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ocultar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "estelar",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "ayudado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "sospecha",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sencillo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "ronda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rifle",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pesadilla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cuero",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "impresionante",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "concierto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cole",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "arabia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tragedia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pasta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hierro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "despacho",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cercano",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "casualidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "clara",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "audiencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "plataforma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "inmediato",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "experimento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "columna",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "caos",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "retiro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "recurso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "moda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ministerio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "evento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "estatua",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "distrito",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "dedicado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "ambulancia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "amanecer",
+  "types": [
+    "Verb",
+    "Noun"
+  ]
+},{
+  "word": "heleno",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "excelencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "escritorio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cohete",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "breve",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "bendito",
+  "types": [
+    "Noun",
+    "Verb",
+    "Adjective"
+  ]
+},{
+  "word": "sano",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "pato",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "moneda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "florido",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "convencer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "considerado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "dispositivo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "brigada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "plano",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "centavo",
+  "types": [
+    "Numeral",
+    "Noun"
+  ]
+},{
+  "word": "zorra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "tremendo",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "manejo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "concentrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "calidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "actual",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "sacrificio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "reparar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "miel",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "limpieza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "influencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "historial",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "heredero",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "esencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "adulto",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "rodilla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "manual",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "júnior",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "jugado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "igualmente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "escritor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ceremonia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aterrizar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "asesinar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "acercar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "talla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "superar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "mayo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "extremo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "detenido",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "descuidar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "contratar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cogido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "anteriormente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "suma",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gastar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "dibujo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "despedida",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "resistencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "conflicto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "periodista",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "oreja",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cuarenta",
+  "types": [
+    "Noun",
+    "Numeral"
+  ]
+},{
+  "word": "herido",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "compromiso",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "complicado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "prestado",
+  "types": [
+    "Other"
+  ]
+},{
+  "word": "tapa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "indio",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "caber",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "avenida",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lastimar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "fama",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "alfa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aclarar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "superficie",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "proponer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pasear",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "data",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "advertencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "medianoche",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hacho",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "grito",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "desarrollo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "caro",
+  "types": [
+    "Adverb",
+    "Adjective"
+  ]
+},{
+  "word": "tardar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "muelle",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "instinto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hechizo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "embajada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "colina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cartel",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cártel",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bolsillo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "apestar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "representante",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rezar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "deporte",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ensalada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cueva",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "conversar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "boleto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "asombroso",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "armario",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sexto",
+  "types": [
+    "Numeral"
+  ]
+},{
+  "word": "producir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "monje",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ideal",
+  "types": [
+    "Adverb",
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "arriesgar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "torneo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "temor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "significado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "Jesucristo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hemorragia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "diciembre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ascensor",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ola",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "masaje",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "masa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "humilde",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "alguacil",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aumentar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "mutante",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "instante",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "giro",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "sumamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "patada",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "enano",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "rancho",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pandilla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "malvado",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "palma",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "bate",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "disfraz",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "oculto",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "certeza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "moral",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "corredor",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "apretar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "refugio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gesto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "garantizar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "acostumbrado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "sufrimiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "armado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "hueco",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "flecha",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "eco",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "custodia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "circo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "adicto",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "pastor",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "manzana",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "hombro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "global",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "encanto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "complejo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "esclavo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "mancha",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "elegante",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "dispuesto",
+  "types": [
+    "Adjective",
+    "Verb"
+  ]
+},{
+  "word": "culpar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "avisar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "reverendo",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "rescatar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "juzgar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "guante",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "autopista",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "rebelde",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "crecido",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "antecedente",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "mantequilla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mandado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bebido",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "misa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "fractura",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "grano",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "circunstancia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cantante",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "deshacer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "candidato",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "asistencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "agosto",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "reconocimiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nuclear",
+  "types": [
+    "Verb",
+    "Adjective"
+  ]
+},{
+  "word": "reserva",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "chance",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "ña",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "griego",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "portar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "motel",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "exterior",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "confirmar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "capital",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "organizar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "mental",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "aliento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "perla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "marihuana",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "estrategia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "DJ",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "comparado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "tribu",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "solar",
+  "types": [
+    "Adjective",
+    "Noun",
+    "Verb"
+  ]
+},{
+  "word": "cocinar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "altamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "afortunadamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "observar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "apartar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "adorable",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "sello",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "perseguir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pesado",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "naturalmente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "ensayo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "despedido",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "demanda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "conquistar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "lidiar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "enterado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "leal",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "jaula",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "equivocar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "derrotar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "curar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "consejero",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "beneficio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "testimonio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "secretaría",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "reunir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "prometido",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "portal",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "payaso",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "pastilla",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "materia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "aumento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "acceder",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pintar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "obligado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "noviembre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "disponible",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "continuo",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "calibre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "urgencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "subido",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "pegado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "panel",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "dormitorio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cortina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "arruinado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "doblar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "poema",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pico",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mecanismo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "paliza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cruce",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cobrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "celoso",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "costo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "atraer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "coordenado",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "bicicleta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gris",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "tinta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "corona",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "maldad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "negociar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "litro",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "fortaleza",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "construido",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "alimentar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "gota",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "enterar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "patear",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "explotar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "criar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "conservar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "abrazar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "borrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "tabaco",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "tira",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "respetar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "recientemente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "quinta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "profundamente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "impedir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "gusano",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "grasa",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "golf",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cancelar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "sinceramente",
+  "types": [
+    "Adverb"
+  ]
+},{
+  "word": "refuerzo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "recomendar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "morar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "enterrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "convenir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "coincidencia",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "beca",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "sueldo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "solitario",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "masacre",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "decente",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "balboa",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "alfombra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "urgente",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "propuesta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "perdedor",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "localizar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "entrenar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "asqueroso",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "arreglado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "anciano",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "rutina",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "nevar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pope",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "clasificado",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "divorcio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cripta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "debate",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "maligno",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "compuerta",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "manantial",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "sangriento",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "equilibrio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "legado",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "impresionar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "gobernante",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "respetable",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "privacidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "carolino",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "arrancar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "calcio",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "gasolinera",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "manuscrito",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "paranoico",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "pescador",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "popularidad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "despegar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "tic",
+  "types": [
+    "Noun",
+    "Noun"
+  ]
+},{
+  "word": "aconsejar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "aportar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "exportar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "casamiento",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "culito",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "penetrar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "voltear",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "describir",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "pendejo",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "escarabajo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "creatividad",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "cerda",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "mosca",
+  "types": [
+    "Noun",
+    "Adjective"
+  ]
+},{
+  "word": "gil",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "pulpo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bebe",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "bebé",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "temerario",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "sen",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "estreno",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "abrochar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "cifra",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "agresivo",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "torpe",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "escolar",
+  "types": [
+    "Adjective",
+    "Noun"
+  ]
+},{
+  "word": "narcotraficante",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "extraer",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "sarcasmo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "consultar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "peinar",
+  "types": [
+    "Verb"
+  ]
+},{
+  "word": "rasgo",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "lejano",
+  "types": [
+    "Adjective"
+  ]
+},{
+  "word": "levante",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "pino",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "piño",
+  "types": [
+    "Noun"
+  ]
+},{
+  "word": "adecuado",
+  "types": [
+    "Adjective"
+  ]
+},
