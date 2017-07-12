@@ -1,11 +1,22 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title><%= title %></title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-  </head>
-  <body>
-    <h1><%= title %></h1>
-    <p>This word is a <%= title %></p>
-  </body>
+<head>
+  <title>Traductor Español/Esperanto</title>
+  <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+<body>
+  <h2>Descomposición de la oración: <%= sentence %></h2>
+  <table>
+    <tr>
+      <th>Posición</th>
+      <th>Palabra</th>
+    </tr>
+    <% words.forEach((word, index) => { %>
+    <tr>
+      <td><%= index %></td>
+      <td><%= word %></td>
+    </tr>
+    <% }) %>  
+  </table>
+</body>
 </html>
