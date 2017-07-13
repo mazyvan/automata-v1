@@ -2,7 +2,7 @@ let express = require('express')
 let router = express.Router()
 let Sequelize = require('sequelize')
 
-const sequelize = new Sequelize('diccionario', 'diccionario', 'diccionario123', {
+const sequelize = new Sequelize('uni_automata', 'uni_automata', 'uni_automata123', {
   host: 'localhost',
   dialect: 'mysql',
   pool: {
@@ -21,43 +21,35 @@ sequelize.authenticate()
   })
 
 
-/** MODEL: Adjetivos */
-const Adjetivo = sequelize.define('adjetivos', {
-  token: Sequelize.STRING,
-  masculino_s: Sequelize.STRING,
-  femenino_s: Sequelize.STRING,
-  esperanto_s: Sequelize.STRING,
-  masculino_p: Sequelize.STRING,
-  femenino_p: Sequelize.STRING,
-  esperanto_p: Sequelize.STRING
-}, { timestamps: false })
-/** MODEL: Generos */
-const Genero = sequelize.define('generos', {
-  genero: Sequelize.STRING,
-}, { timestamps: false })
-/** MODEL: Nombres */
-const Nombre = sequelize.define('nombres', {
-  nombre: Sequelize.STRING,
-}, { timestamps: false })
-/** MODEL: Objetos */
-const Objeto = sequelize.define('objetos', {
-  token: Sequelize.STRING,
-  objeto: Sequelize.STRING,
-  esperanto: Sequelize.STRING,
-  obj_plural: Sequelize.STRING,
-  eo_plural: Sequelize.STRING,
-}, { timestamps: false })
-/** MODEL: Verbos */
-const Verbo = sequelize.define('verbos', {
-  infinitivo: Sequelize.STRING,
-  esperanto: Sequelize.STRING
-}, { timestamps: false })
+/** 
+ * MODEL: WORDS 
+ */
+const Word = sequelize.define('word', {
+  name: {
+    type: Sequelize.STRING(30),
+    primaryKey: true
+  },
+  number: Sequelize.BOOLEAN,
+  gender: Sequelize.BOOLEAN,
+})
 
+/** 
+ * MODEL: TYPES
+ */
+const Type = sequelize.define('type', {
+  name: Sequelize.STRING(15),
+})
 
-Nombre.belongsTo(Genero)
-Objeto.belongsTo(Genero)
+/**
+ * ASSOCIATIONS
+ */
+Word.belongsToMany(Type, { through: 'WordType' })
+Type.belongsToMany(Word, { through: 'WordType' })
 
-
+/**
+ * RUN SYNC
+ */
+sequelize.sync()
 
 
 /* GET home page. */
@@ -69,19 +61,31 @@ router.get('/', function (req, res, next) {
 
 
 
-    Verbo.findOne({ where: { infinitivo: word } }).then(verbo => types = (verbo) ? ['verb_inf'] : undefined)
-      .then(types => {
-        words.push({
-          name: word,
-          types: types
-        })
-        if (index == numOfWords - 1) {
-          res.render('index', {
-            sentence: req.query.sentence,
-            words: words
-          })
-        }
+    Word.findOne({
+      where: { name: word }, include: [{
+        model: Type
+      }]
+    }).then(word => {
+      console.log('-----------------');
+      try {
+        console.log(word.dataValues);
+        return word.dataValues.types;
+      } catch (error) {
+        return undefined
+      }
+      return ;
+    }).then(types => {
+      words.push({
+        name: word,
+        types: types
       })
+      if (index == numOfWords - 1) {
+        res.render('index', {
+          sentence: req.query.sentence,
+          words: words
+        })
+      }
+    })
 
 
   })
