@@ -57,40 +57,39 @@ router.get('/', function (req, res, next) {
   let sentence = req.query.sentence
   let words = []
   let numOfWords = sentence.split(' ').length
+  let foundedWords = 0
   sentence.split(' ').forEach((word, index) => {
-
-
-
     Word.findOne({
-      where: { name: word }, include: [{
-        model: Type
-      }]
+      where: { name: word }, include: [{ model: Type }]
     }).then(word => {
-      console.log('-----------------');
-      try {
-        console.log(word.dataValues);
-        return word.dataValues.types;
-      } catch (error) {
-        return undefined
-      }
-      return ;
+      if (!word) return
+      return word.dataValues.types.map(type => type.name)
     }).then(types => {
-      words.push({
-        name: word,
-        types: types
-      })
-      if (index == numOfWords - 1) {
+      words.push({ index: index, name: word, types: types })
+      foundedWords++
+      if (foundedWords == numOfWords) {
+        // Ordenamos las palabras
+        words.sort(function (a, b) {
+          return a.index - b.index;
+        })
+
+        // Aquí hay que poner el código necesario para checar los automatas
+        // la variable words es un vector de objectos (de palabras)
+        // unicamente hay que recorrer cada palabra ejemplo:
+        /**
+         * words.forEach(word => {
+         *  word.types // types es otro vector así que tambien podemos recorrerlo y comparar
+         * })
+         */
+
+
         res.render('index', {
           sentence: req.query.sentence,
           words: words
         })
       }
     })
-
-
   })
-
-
 })
 
 module.exports = router

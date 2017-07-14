@@ -14,11 +14,11 @@
         <th>Palabra</th>
         <th>Es un</th>
       </tr>
-      <% words.forEach((word, index) => { %>
+      <% words.forEach(word => { %>
       <tr>
-        <td><%= index %></td>
+        <td><%= word.index %></td>
         <td><%= word.name %></td>
-        <td><%= (word.types) ? word.types : 'Desconocida' %></td>
+        <td><%= (word.types) ? word.types.toString() : 'Desconocida' %></td>
       </tr>
       <% }) %>  
     </table>
