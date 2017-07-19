@@ -51,6 +51,50 @@ Type.belongsToMany(Word, { through: 'WordType' })
  */
 sequelize.sync()
 
+/**
+ * @param {Object} words 
+ * @return {Object} Regresa un objeto de este tipo {start: pos, end: pos}
+ */
+function getSintagmaVerbalStartEndPositions(words) {
+  try {
+    if (words[0].types.some(type => type == 'verb')) return { start: 0, end: 1 }
+    if (words[0].types.some(type => type == 'negation') && words[1].types.some(type => type == 'verb')) return { start: 0, end: 2 }
+
+  } catch (error) {
+    return undefined
+  }
+}
+
+/**
+ * @param {Object} words 
+ * @return {Object} Regresa un objeto de este tipo {start: pos, end: pos}
+ */
+function getSintagmaNominalStartEndPositions(words) {
+  try {
+    if (words[0].types.some(type => type == 'pronoun')) return { start: 0, end: 1 }
+    if (words[0].types.some(type => type == 'propernoun')) return { start: 0, end: 1 }
+    if (words[0].types.some(type => type == 'determiner') && words[1].types.some(type => type == 'noun')) return { start: 0, end: 2 }
+    // if (words[0].types.some(type => type == 'determiner') && words[1].types.some(type => type == 'verb')) return { start: 0, end: 2 }
+    if (words[0].types.some(type => type == 'numeral') && words[1].types.some(type => type == 'noun')) return { start: 0, end: 2 }
+    
+  } catch (error) {
+    return undefined
+  }
+}
+
+/**
+ * @param {String} words 
+ * @return Compara y regresa el tipo de oración
+ */
+function checkSentence(words) {
+  if (getSintagmaNominalStartEndPositions(words)) return 'SN'
+  if (getSintagmaVerbalStartEndPositions(words)) return 'SV'
+}
+
+
+
+
+
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
@@ -65,7 +109,11 @@ router.get('/', function (req, res, next) {
       if (!word) return
       return word.dataValues.types.map(type => type.name)
     }).then(types => {
-      words.push({ index: index, name: word, types: types })
+      words.push({
+        index: index,
+        name: word,
+        types: types
+      })
       foundedWords++
       if (foundedWords == numOfWords) {
         // Ordenamos las palabras
@@ -76,16 +124,18 @@ router.get('/', function (req, res, next) {
         // Aquí hay que poner el código necesario para checar los automatas
         // la variable words es un vector de objectos (de palabras)
         // unicamente hay que recorrer cada palabra ejemplo:
-        /**
-         * words.forEach(word => {
-         *  word.types // types es otro vector así que tambien podemos recorrerlo y comparar
-         * })
-         */
 
+        // words.forEach(word => {
+        // word.types // types es otro vector así que tambien podemos recorrerlo y comparar
+        // })
+
+
+        let sintagma = checkSentence(words);
 
         res.render('index', {
           sentence: req.query.sentence,
-          words: words
+          words: words,
+          sintagma: sintagma
         })
       }
     })
