@@ -9,15 +9,17 @@ const sequelize = new Sequelize('uni_automata', 'uni_automata', 'uni_automata123
     max: 5,
     min: 0,
     idle: 10000
-  }
+  },
+  logging: false
 })
 
 sequelize.authenticate()
   .then(() => {
-    console.log('Connection has been established successfully.')
+    console.log('Connection has been established successfully.\n')
   })
   .catch(err => {
     console.error('Unable to connect to the database:', err)
+    process.exit(1);
   })
 
 
@@ -41,7 +43,7 @@ const Type = sequelize.define('type', {
 })
 
 /**
- * ASSOCIATIONS
+ * DEFINE ASSOCIATIONS
  */
 Word.belongsToMany(Type, { through: 'WordType' })
 Type.belongsToMany(Word, { through: 'WordType' })
@@ -52,43 +54,79 @@ Type.belongsToMany(Word, { through: 'WordType' })
 sequelize.sync()
 
 /**
- * @param {Object} words 
+ * @param {Object} sentence 
+ * @param {Object} startAt 
  * @return {Object} Regresa un objeto de este tipo {start: pos, end: pos}
  */
-function getSintagmaVerbalStartEndPositions(words) {
-  try {
-    if (words[0].types.some(type => type == 'verb')) return { start: 0, end: 1 }
-    if (words[0].types.some(type => type == 'negation') && words[1].types.some(type => type == 'verb')) return { start: 0, end: 2 }
+function getSintagmaVerbalStartEndPositions(sentence, startAt = 0) {
+  if (!sentence[startAt].hasData()) return
+  if (sentence[startAt].types.some(type => type == 'verb')) return { start: startAt, end: startAt + 1 }
 
-  } catch (error) {
-    return undefined
+  if (!sentence[startAt + 1] || !sentence[startAt + 1].hasData()) return
+  if (sentence[startAt].types.some(type => type == 'negation') && sentence[startAt + 1].types.some(type => type == 'verb')) return { start: startAt, end: startAt + 2 }
+
+}
+
+/**
+ * @param {Object} sentence
+ * @param {Object} startAt 
+ * @return {Object} Regresa un objeto de este tipo {start: pos, end: pos}
+ */
+function getSintagmaNominalStartEndPositions(sentence, startAt = 0) {
+  if (!sentence[startAt].hasData()) return
+  if (sentence[startAt].types.some(type => type == 'pronoun')) return { start: startAt, end: startAt + 1 }
+  if (sentence[startAt].types.some(type => type == 'propernoun')) return { start: startAt, end: startAt + 1 }
+
+  if (!sentence[startAt + 1] || !sentence[startAt + 1].hasData()) return
+  if (
+    (sentence[startAt].types.some(type => type == 'determiner')) &&
+    (sentence[startAt + 1].types.some(type => type == 'noun')) &&
+    (sentence[startAt].isSingular() == sentence[startAt + 1].isSingular()) &&
+    (sentence[startAt].isMasculine() == sentence[startAt + 1].isMasculine())
+  ) {
+    return { start: startAt, end: startAt + 2 }
+  }
+  if (
+    (sentence[startAt].types.some(type => type == 'numeral')) &&
+    (sentence[startAt + 1].types.some(type => type == 'noun')) &&
+    (sentence[startAt].isSingular() == sentence[startAt + 1].isSingular()) &&
+    (sentence[startAt].isMasculine() == sentence[startAt + 1].isMasculine())
+  ) {
+    return { start: startAt, end: startAt + 2 }
   }
 }
 
 /**
- * @param {Object} words 
- * @return {Object} Regresa un objeto de este tipo {start: pos, end: pos}
+ * @param {String} sentence 
+ * @return Compara y regresa un array de sintagmas
  */
-function getSintagmaNominalStartEndPositions(words) {
-  try {
-    if (words[0].types.some(type => type == 'pronoun')) return { start: 0, end: 1 }
-    if (words[0].types.some(type => type == 'propernoun')) return { start: 0, end: 1 }
-    if (words[0].types.some(type => type == 'determiner') && words[1].types.some(type => type == 'noun')) return { start: 0, end: 2 }
-    // if (words[0].types.some(type => type == 'determiner') && words[1].types.some(type => type == 'verb')) return { start: 0, end: 2 }
-    if (words[0].types.some(type => type == 'numeral') && words[1].types.some(type => type == 'noun')) return { start: 0, end: 2 }
-    
-  } catch (error) {
-    return undefined
-  }
-}
+function checkSentence(sentence, lastCheckedPosition = 0, detectedPartsOfSentence = []) {
+  if (result = getSintagmaNominalStartEndPositions(sentence, lastCheckedPosition)) {
+    detectedPartsOfSentence.push('SN')
+    lastCheckedPosition = result.end
+    // console.log('last checked pos SN', sentence, lastCheckedPosition, detectedPartsOfSentence);
 
-/**
- * @param {String} words 
- * @return Compara y regresa el tipo de oración
- */
-function checkSentence(words) {
-  if (getSintagmaNominalStartEndPositions(words)) return 'SN'
-  if (getSintagmaVerbalStartEndPositions(words)) return 'SV'
+  } else if (result = getSintagmaVerbalStartEndPositions(sentence, lastCheckedPosition)) {
+    detectedPartsOfSentence.push('SV')
+    lastCheckedPosition = result.end
+    // console.log('last checked pos SV', sentence, lastCheckedPosition, detectedPartsOfSentence);
+
+  } else {
+    // console.log('entro en else');
+    return detectedPartsOfSentence
+  }
+
+  if (sentence.length > lastCheckedPosition) {
+    // console.log('entro en condicion');
+    return checkSentence(sentence, lastCheckedPosition, detectedPartsOfSentence)
+    // console.log(detectedPartsOfSentence);
+
+  } else {
+    // console.log('entro en else de condicion');
+    // console.log(detectedPartsOfSentence);
+    return detectedPartsOfSentence
+  }
+
 }
 
 
@@ -100,26 +138,35 @@ function checkSentence(words) {
 router.get('/', function (req, res, next) {
   let sentence = req.query.sentence
   let words = []
+  if (!sentence) return res.render('index')
   let numOfWords = sentence.split(' ').length
   let foundedWords = 0
   sentence.split(' ').forEach((word, index) => {
     Word.findOne({
-      where: { name: word }, include: [{ model: Type }]
-    }).then(word => {
-      if (!word) return
-      return word.dataValues.types.map(type => type.name)
-    }).then(types => {
+      where: Sequelize.or(
+        { name: word },
+        { name: word.charAt(0).toUpperCase() + word.slice(1) }
+      ), include: [{ model: Type }]
+    }).then(result => {
       words.push({
         index: index,
         name: word,
-        types: types
+        hasData: () => (result) ? true : false,
+
+        isPlural: () => (result) ? (result.dataValues.number == null) | result.dataValues.number : undefined,
+        isSingular: () => (result) ? (result.dataValues.number == null) | !result.dataValues.number : undefined,
+
+        isMasculine: () => (result) ? (result.dataValues.gender == null) | result.dataValues.gender : undefined,
+        isFeminine: () => (result) ? (result.dataValues.gender == null) | !result.dataValues.gender : undefined,
+
+        number: (result) ? result.dataValues.number : undefined,
+        gender: (result) ? result.dataValues.gender : undefined,
+        types: (result) ? result.dataValues.types.map(type => type.name) : undefined
       })
       foundedWords++
       if (foundedWords == numOfWords) {
         // Ordenamos las palabras
-        words.sort(function (a, b) {
-          return a.index - b.index;
-        })
+        words.sort((a, b) => a.index - b.index)
 
         // Aquí hay que poner el código necesario para checar los automatas
         // la variable words es un vector de objectos (de palabras)
@@ -128,14 +175,16 @@ router.get('/', function (req, res, next) {
         // words.forEach(word => {
         // word.types // types es otro vector así que tambien podemos recorrerlo y comparar
         // })
+        console.log();
+        console.log('WORDS DATA FOUND:');
+        console.log(JSON.stringify(words, null, 2));
 
-
-        let sintagma = checkSentence(words);
+        let sintagmas = checkSentence(words);
 
         res.render('index', {
           sentence: req.query.sentence,
           words: words,
-          sintagma: sintagma
+          sintagmas: sintagmas
         })
       }
     })
