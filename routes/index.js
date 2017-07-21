@@ -112,7 +112,28 @@ function tryToGetSintagmaAdjetivalPositions(sentence, startAt = 0) {
 
   if (!sentence[startAt + 1] || !sentence[startAt + 1].hasData()) return { start: startAt, end: startAt }
   if (sentence[startAt].types.some(type => type == 'quantifier') && sentence[startAt + 1].types.some(type => type == 'adj')) return { start: startAt, end: startAt + 2 }
-  
+
+  return { start: startAt, end: startAt }
+}
+
+/**
+ * @param {Object} sentence
+ * @param {Object} startAt 
+ * @return {Object} Regresa un objeto de este tipo {start: pos, end: pos}
+ */
+function tryToGetSintagmaAdverbialPositions(sentence, startAt = 0) {
+  if (!sentence[startAt] || !sentence[startAt].hasData()) return { start: startAt, end: startAt }
+  if (
+    (sentence[startAt].types.some(type => type == 'adv')) &&
+    (sentence[startAt - 1].isSingular() == sentence[startAt].isSingular()) &&
+    (sentence[startAt - 1].isMasculine() == sentence[startAt].isMasculine())
+  ) {
+    return { start: startAt, end: startAt + 1 }
+  }
+
+  if (!sentence[startAt + 1] || !sentence[startAt + 1].hasData()) return { start: startAt, end: startAt }
+  if (sentence[startAt].types.some(type => type == 'quantifier') && sentence[startAt + 1].types.some(type => type == 'adv')) return { start: startAt, end: startAt + 2 }
+
   return { start: startAt, end: startAt }
 }
 
@@ -133,7 +154,7 @@ function tryToGetAdyacentePositions(sentence, startAt = 0) {
 
   if (!sentence[startAt + 1] || !sentence[startAt + 1].hasData()) return { start: startAt, end: startAt }
   if (sentence[startAt].types.some(type => type == 'preposition') && sentence[startAt + 1].types.some(type => type == 'noun')) return { start: startAt, end: startAt + 2 }
-  
+
   return { start: startAt, end: startAt }
 }
 
@@ -153,7 +174,14 @@ function checkSentence(sentence, lastCheckedPosition = 0, detectedPartsOfSentenc
 
   } else if (result = tryToGetSintagmaVerbalPositions(sentence, lastCheckedPosition)) {
     detectedPartsOfSentence.push('SV')
-    result = tryToGetSintagmaAdjetivalPositions(sentence, result.end)
+    let oldResult = result
+    result = tryToGetSintagmaAdverbialPositions(sentence, result.end)
+    if (result.end > oldResult.end) detectedPartsOfSentence.push('SAdv')
+    else {
+      result = tryToGetSintagmaAdjetivalPositions(sentence, result.end)
+      if (result.end > oldResult.end) detectedPartsOfSentence.push('SAdj')
+    }
+
     lastCheckedPosition = result.end
     // console.log('last checked pos SV', sentence, lastCheckedPosition, detectedPartsOfSentence)
 
