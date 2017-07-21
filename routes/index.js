@@ -2,7 +2,7 @@ let express = require('express')
 let router = express.Router()
 let Sequelize = require('sequelize')
 
-const sequelize = new Sequelize('uni_automata', 'uni_automata', 'uni_automata123', {
+const sequelize = new Sequelize('check_uni_automata', 'uni_automata', 'uni_automata123', {
   host: 'localhost',
   dialect: 'mysql',
   pool: {
@@ -19,7 +19,7 @@ sequelize.authenticate()
   })
   .catch(err => {
     console.error('Unable to connect to the database:', err)
-    process.exit(1);
+    process.exit(1)
   })
 
 
@@ -58,7 +58,7 @@ sequelize.sync()
  * @param {Object} startAt 
  * @return {Object} Regresa un objeto de este tipo {start: pos, end: pos}
  */
-function getSintagmaVerbalStartEndPositions(sentence, startAt = 0) {
+function tryToGetSintagmaVerbalPositions(sentence, startAt = 0) {
   if (!sentence[startAt].hasData()) return
   if (sentence[startAt].types.some(type => type == 'verb')) return { start: startAt, end: startAt + 1 }
 
@@ -72,10 +72,9 @@ function getSintagmaVerbalStartEndPositions(sentence, startAt = 0) {
  * @param {Object} startAt 
  * @return {Object} Regresa un objeto de este tipo {start: pos, end: pos}
  */
-function getSintagmaNominalStartEndPositions(sentence, startAt = 0) {
-  if (!sentence[startAt].hasData()) return
-  if (sentence[startAt].types.some(type => type == 'pronoun')) return { start: startAt, end: startAt + 1 }
-  if (sentence[startAt].types.some(type => type == 'propernoun')) return { start: startAt, end: startAt + 1 }
+function tryToGetSintagmaNominalPositions(sentence, startAt = 0) {
+  if (!sentence[startAt] || !sentence[startAt].hasData()) return
+  if (sentence[startAt].types.some(type => type == 'pronoun' || type == 'propernoun')) return { start: startAt, end: startAt + 1 }
 
   if (!sentence[startAt + 1] || !sentence[startAt + 1].hasData()) return
   if (
@@ -97,34 +96,55 @@ function getSintagmaNominalStartEndPositions(sentence, startAt = 0) {
 }
 
 /**
+ * @param {Object} sentence
+ * @param {Object} startAt 
+ * @return {Object} Regresa un objeto de este tipo {start: pos, end: pos}
+ */
+function tryToGetAdyacentePositions(sentence, startAt = 0) {
+  if (!sentence[startAt] || !sentence[startAt].hasData()) return { start: startAt, end: startAt }
+  if (
+    (sentence[startAt].types.some(type => type == 'adj')) &&
+    (sentence[startAt - 1].isSingular() == sentence[startAt].isSingular()) &&
+    (sentence[startAt - 1].isMasculine() == sentence[startAt].isMasculine())
+  ) {
+    return { start: startAt, end: startAt + 1 }
+  }
+
+  if (!sentence[startAt + 1] || !sentence[startAt + 1].hasData()) return { start: startAt, end: startAt }
+  if (sentence[startAt].types.some(type => type == 'preposition') && sentence[startAt + 1].types.some(type => type == 'noun')) return { start: startAt, end: startAt + 2 }
+  return { start: startAt, end: startAt }
+}
+
+/**
  * @param {String} sentence 
  * @return Compara y regresa un array de sintagmas
  */
 function checkSentence(sentence, lastCheckedPosition = 0, detectedPartsOfSentence = []) {
-  if (result = getSintagmaNominalStartEndPositions(sentence, lastCheckedPosition)) {
+  if (result = tryToGetSintagmaNominalPositions(sentence, lastCheckedPosition)) {
     detectedPartsOfSentence.push('SN')
+    result = tryToGetAdyacentePositions(sentence, result.end)
     lastCheckedPosition = result.end
-    // console.log('last checked pos SN', sentence, lastCheckedPosition, detectedPartsOfSentence);
+    // console.log('last checked pos SN', sentence, lastCheckedPosition, detectedPartsOfSentence)
 
-  } else if (result = getSintagmaVerbalStartEndPositions(sentence, lastCheckedPosition)) {
+  } else if (result = tryToGetSintagmaVerbalPositions(sentence, lastCheckedPosition)) {
     detectedPartsOfSentence.push('SV')
     lastCheckedPosition = result.end
-    // console.log('last checked pos SV', sentence, lastCheckedPosition, detectedPartsOfSentence);
+    // console.log('last checked pos SV', sentence, lastCheckedPosition, detectedPartsOfSentence)
 
   } else {
-    // console.log('entro en else');
-    return detectedPartsOfSentence
+    // console.log('entro en else')
+    return { parts: detectedPartsOfSentence, lastCheckedPosition }
   }
 
   if (sentence.length > lastCheckedPosition) {
-    // console.log('entro en condicion');
+    // console.log('entro en condicion')
     return checkSentence(sentence, lastCheckedPosition, detectedPartsOfSentence)
-    // console.log(detectedPartsOfSentence);
+    // console.log(detectedPartsOfSentence)
 
   } else {
-    // console.log('entro en else de condicion');
-    // console.log(detectedPartsOfSentence);
-    return detectedPartsOfSentence
+    // console.log('entro en else de condicion')
+    // console.log(detectedPartsOfSentence)
+    return { parts: detectedPartsOfSentence, lastCheckedPosition }
   }
 
 }
@@ -175,16 +195,18 @@ router.get('/', function (req, res, next) {
         // words.forEach(word => {
         // word.types // types es otro vector así que tambien podemos recorrerlo y comparar
         // })
-        console.log();
-        console.log('WORDS DATA FOUND:');
-        console.log(JSON.stringify(words, null, 2));
+        console.log()
+        console.log('WORDS DATA FOUND:')
+        console.log(JSON.stringify(words, null, 2))
 
-        let sintagmas = checkSentence(words);
+        let sentenceChecked = checkSentence(words)
+        // Si no se logró analizar toda la oración
+        if (sentenceChecked.lastCheckedPosition != words.length) sentenceChecked.parts = []
 
         res.render('index', {
           sentence: req.query.sentence,
           words: words,
-          sintagmas: sintagmas
+          sintagmas: sentenceChecked.parts
         })
       }
     })
