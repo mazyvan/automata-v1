@@ -104,6 +104,7 @@ function tryToGetSintagmaAdjetivalPositions(sentence, startAt = 0) {
   if (!sentence[startAt] || !sentence[startAt].hasData()) return { start: startAt, end: startAt }
   if (
     (sentence[startAt].types.some(type => type == 'adj')) &&
+    (sentence[startAt - 1].types.some(type => type == 'copular')) &&
     (sentence[startAt - 1].isSingular() == sentence[startAt].isSingular()) &&
     (sentence[startAt - 1].isMasculine() == sentence[startAt].isMasculine())
   ) {
@@ -175,11 +176,11 @@ function checkSentence(sentence, lastCheckedPosition = 0, detectedPartsOfSentenc
   } else if (result = tryToGetSintagmaVerbalPositions(sentence, lastCheckedPosition)) {
     detectedPartsOfSentence.push('SV')
     let oldResult = result
-    result = tryToGetSintagmaAdverbialPositions(sentence, result.end)
-    if (result.end > oldResult.end) detectedPartsOfSentence.push('SAdv')
+    result = tryToGetSintagmaAdjetivalPositions(sentence, result.end)
+    if (result.end > oldResult.end) detectedPartsOfSentence.push('SAdj')
     else {
-      result = tryToGetSintagmaAdjetivalPositions(sentence, result.end)
-      if (result.end > oldResult.end) detectedPartsOfSentence.push('SAdj')
+      result = tryToGetSintagmaAdverbialPositions(sentence, result.end)
+      if (result.end > oldResult.end) detectedPartsOfSentence.push('SAdv')
     }
 
     lastCheckedPosition = result.end
@@ -218,8 +219,8 @@ router.get('/', function (req, res, next) {
   sentence.split(' ').forEach((word, index) => {
     Word.findOne({
       where: Sequelize.or(
-        { name: word },
-        { name: word.charAt(0).toUpperCase() + word.slice(1) }
+        { name: word.toLowerCase() },
+        { name: word.charAt(0).toUpperCase() + word.slice(1).toLowerCase() }
       ), include: [{ model: Type }]
     }).then(result => {
       words.push({
